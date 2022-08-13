@@ -1,0 +1,4 @@
+livro<-c("romance", "aventura", "ficção")
+str(livro)
+
+reg_ficção<- lm(price ~., dimensions)
